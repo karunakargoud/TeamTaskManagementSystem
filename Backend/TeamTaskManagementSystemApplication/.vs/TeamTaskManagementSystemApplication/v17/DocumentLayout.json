@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\teamtaskmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\teamtaskmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\workitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\workitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\teamservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\teamservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\dashboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\dashboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF5CB2-CC57-4A06-AB4A-151EF17D4137}|TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj|solutionrelative:teamtaskmanagement.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C975D2A-F26D-43C9-BE5D-F8D958DEF6D8}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C975D2A-F26D-43C9-BE5D-F8D958DEF6D8}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C975D2A-F26D-43C9-BE5D-F8D958DEF6D8}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\karun\\source\\repos\\teamtaskmanagementsystemapplication\\teamtaskmanagement.domain\\teamtaskmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C975D2A-F26D-43C9-BE5D-F8D958DEF6D8}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\teamtaskmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:34:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:11:29.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\DashboardServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\DashboardServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\DashboardServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\DashboardServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:11:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\CommentServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\CommentServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\CommentServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\CommentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:10:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\TeamServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\TeamServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\TeamServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\TeamServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:10:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\UserServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\UserServiceTests.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:09:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\WorkItemServiceTests.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\WorkItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\WorkItemServiceTests.cs",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\WorkItemServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:09:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamTaskManagement.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj",
+              "RelativeToolTip": "TeamTaskManagement.Tests\\TeamTaskManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T21:15:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamTaskManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\karun\\source\\repos\\TeamTaskManagementSystemApplication\\TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T21:20:46.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
